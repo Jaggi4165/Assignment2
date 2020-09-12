@@ -1,0 +1,34 @@
+{
+ "details":{
+
+  "name":"Raviteja",
+  "age":24,
+  "fathername":"Ramana",
+  "mothername":"Sakuntala",
+  "photo":"author-image1.jpg",
+  "ssc":"93%",
+    "inter":"70.5%",
+    "degree":"76.2%",
+    "mca":"73.33%",
+  "language":["Telugu","English","Hindi"],
+  "hobbies":["Reading Books","Watching movies","Long Journies"],
+  
+  "courses":["c","java","python","webdesign-reactJS","PHP-full stack"]
+},
+ "details1":{
+
+  "name":"Kajal Agarwal",
+  "age":18,
+  "fathername":"Chinnarao",
+  "mothername":"laxmi",
+  "photo":"author-image2.jpg",
+  "SSC":"9.3CGPA",
+  "INTER":705,
+  "DEGREE":"7.62CGPA",
+  "MCA":"7.67CGPA",
+  "language":["Thamil","Marathi","Bengali"],
+  "hobbies":["Reading Books","Watching movies","Long Journies"],
+  "education":[{"ssc":"93%"},{"inter":"70.5%"},{"bsc":"76.2%"},{"MCA":"73.33%"}],
+  "courses":["c","java","python","webdesign-reactJS","PHP-full stack"]
+}
+}

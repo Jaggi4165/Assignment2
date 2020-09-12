@@ -1,0 +1,67 @@
+#heading1 { color:green; }
+#heading { 
+	color:red; 
+	text-align: center; 
+	text-decoration: underline; }
+img{
+	height:200px;
+	width:250px;
+	border:2px solid green;
+}
+.row{
+	word-wrap: wrap;
+}
+
+#btn1 {
+	height: 30px;
+	width:75px;
+
+}
+body{
+	text-align: center;
+	flex-wrap: wrap;
+}
+.parent {
+			display:flex; 
+			flex-direction: auto;
+			margin:0 auto;
+		}
+#title{
+	color:maroon;
+	font-size: 70px;
+	font-weight:bold;
+}
+#a-deco{
+	text-decoration: none;
+}
+.profile1_title1{
+	color:red;
+	font-weight: bold;
+	font-size: 70px;
+	font-family: sans-serif;
+	margin-bottom: 50px;
+	margin-top: 10px;
+	text-decoration: underline;
+}
+#known_languages,#course1,#hobbies1,#edu_details{
+	color:red;
+	text-decoration: underline;
+	font-size: 20px;
+	font-weight:bold;
+	text-align: center;
+	margin-left: 35px;
+}
+
+ul li,#para{
+	font-size: 25px;
+	text-align: center;
+	/*margin-left:35px;*/
+	/*color:red;*/
+}
+li{
+	text-decoration: none;
+	list-style-type: none;
+}
+#backbtn{
+	font-size: 20px;
+}
