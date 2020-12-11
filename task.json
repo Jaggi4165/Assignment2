@@ -17,18 +17,18 @@
 },
  "details1":{
 
-  "name":"KUSUMURU KAYANI",
-  "age":18,
-  "fathername":"Chinnarao",
-  "mothername":"laxmi",
-  "photo":"author-image2.jpg",
+  "name":"SARIKI GOVINDARAO",
+  "age":26,
+  "fathername":"Thowdu",
+  "mothername":"Bangaramma",
+  "photo":"IMG_0042.JPG",
   "SSC":"9.3CGPA",
   "INTER":705,
   "DEGREE":"7.62CGPA",
   "MCA":"7.67CGPA",
   "language":["Thamil","Marathi","Bengali"],
   "hobbies":["Reading Books","Watching movies","Long Journies"],
-  "education":[{"ssc":"93%"},{"inter":"70.5%"},{"bsc":"76.2%"},{"MCA":"73.33%"}],
-  "courses":["c","java","python","webdesign-reactJS","PHP-full stack"]
+  "education":[{"ssc":"95%"},{"inter":"86.5%"},{"bsc":"83.2%"},{"MCA":"81.02%"}],
+  "courses":["c","python","webdesign-reactJS","PHP-full stack"]
 }
 }
