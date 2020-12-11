@@ -20,8 +20,9 @@ getJSON("./task.json").then(d=>{
  console.log(d)
  basic_details(d.details);
  basic_details1(d.details1);
+	basic_details1(d.details2);
     //trainers_details(d.trainers);
-})
+})//IMG-20201206-WA0026.jpg
 
 var title=document.querySelector(".title");
 
@@ -110,4 +111,44 @@ button2.appendChild(a);
 card2.appendChild(button2);
 
 main.appendChild(card2);
+}
+
+function basic_details2(SDC) {
+//main.appendChild(document.createElement("hr"));
+
+var card2=document.createElement("div");
+card2.setAttribute("class","col-sm-6");
+
+
+
+var img = document.createElement("img");
+img.src=SDC.photo;
+ card2.appendChild(img);
+
+ var heading1 = document.createElement("h1");
+heading1.textContent=SDC.name; 
+heading1.setAttribute("id","heading1");
+card2.appendChild(heading1);
+
+ var age1 = document.createElement("h3");
+age1.textContent="My age is : "+SDC.age;
+//age.setAttribute("id","heading1");
+heading1.appendChild(age1);
+
+/*var button1 = document.createElement("button");
+button1.setAttribute("id","btn1");
+button1.textContent="SUBMIT";
+card2.appendChild(button1);*/ //button------------------------------------------
+
+var button3=document.createElement("button");
+var a = document.createElement('a');  
+a.setAttribute("id","a-deco")
+var btnname = document.createTextNode("VIEW RESUME"); 
+a.appendChild(btnname);
+a.title="VIEW RESUME"
+a.href = "profile3.html";
+button3.appendChild(a);
+card3.appendChild(button2);
+
+main.appendChild(card3);
 }
