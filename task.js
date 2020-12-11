@@ -117,18 +117,18 @@ function basic_details2(SDC) {
 //main.appendChild(document.createElement("hr"));
 
 var card2=document.createElement("div");
-card2.setAttribute("class","col-sm-6");
+card3.setAttribute("class","col-sm-6");
 
 
 
 var img = document.createElement("img");
 img.src=SDC.photo;
- card2.appendChild(img);
+ card3.appendChild(img);
 
  var heading1 = document.createElement("h1");
 heading1.textContent=SDC.name; 
 heading1.setAttribute("id","heading1");
-card2.appendChild(heading1);
+card3.appendChild(heading1);
 
  var age1 = document.createElement("h3");
 age1.textContent="My age is : "+SDC.age;
