@@ -41,7 +41,7 @@ function basic_details(SDC) {
 // start the dynamic page content....
 
 var card1=document.createElement("div");
-card1.setAttribute("class","col-sm-6");
+card1.setAttribute("class","col-sm-4");
 
 
 var img = document.createElement("img");
@@ -77,7 +77,7 @@ function basic_details1(SDC) {
 //main.appendChild(document.createElement("hr"));
 
 var card2=document.createElement("div");
-card2.setAttribute("class","col-sm-6");
+card2.setAttribute("class","col-sm-4");
 
 
 
@@ -117,7 +117,7 @@ function basic_details2(SDC) {
 //main.appendChild(document.createElement("hr"));
 
 var card2=document.createElement("div");
-card3.setAttribute("class","col-sm-6");
+card3.setAttribute("class","col-sm-4");
 
 
 
