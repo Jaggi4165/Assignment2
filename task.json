@@ -31,4 +31,22 @@
   "education":[{"ssc":"95%"},{"inter":"86.5%"},{"bsc":"83.2%"},{"MCA":"81.02%"}],
   "courses":["c","python","webdesign-reactJS","PHP-full stack"]
 }
+ 
+ "details2":{
+
+  "name":"GANTETI HEMANTH KUMAR",
+  "age":25,
+  "fathername":"Nanna",
+  "mothername":"Amma",
+  "photo":"IMG_0042.JPG",
+  "SSC":"9.3CGPA",
+  "INTER":705,
+  "DEGREE":"7.62CGPA",
+  "MCA":"7.67CGPA",
+  "language":["Oriya","Hindi","English"],
+  "hobbies":["Reading Books","Watching movies","Long Journies"],
+  "education":[{"ssc":"95%"},{"inter":"86.5%"},{"bsc":"83.2%"},{"MCA":"81.02%"}],
+  "courses":["c","python","webdesign-reactJS","PHP-full stack"]
 }
+}
+
